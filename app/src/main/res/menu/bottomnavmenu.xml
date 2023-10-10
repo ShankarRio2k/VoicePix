@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item android:title="Home" android:id="@+id/Home" android:icon="@drawable/home_pov"/>
+    <item android:title="Inspiration" android:id="@+id/Transact" android:icon="@drawable/idea_pv"/>
+    <item android:title="Settings" android:id="@+id/saveorbarrow" android:icon="@drawable/settings_pv"/>
+    <item android:title="Profile" android:id="@+id/others" android:icon="@drawable/profile_vp"/>
+</menu>
